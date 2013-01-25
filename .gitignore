@@ -41,3 +41,9 @@ App_Data/
 *.resharper.user
 *.suo
 *.user
+
+src/ServiceStack.Examples/ServiceStack.Examples.Clients/Default.aspx.designer.cs
+
+src/ServiceStack.Examples/ServiceStack.Examples.Host.Web/Default.aspx.designer.cs
+
+src/ServiceStack.Examples/ServiceStack.Examples.Host.Web/Default.aspx.designer.cs
